@@ -1,0 +1,8 @@
+Answer the following multi-choice question.
+What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?
+A. Opportunistic organisation
+B. Enterprising organisation
+C. International organisation
+D. Agile organisation
+Answer: D. Agile organisation
+Reason: "Agile" is commonly used to describe an approach or method in various fields, including business and software development, where the key focus is flexibility, rapid response to change, and iterative progress. This term fits best with the description of an organization that is highly adaptive and responsive to market conditions.
