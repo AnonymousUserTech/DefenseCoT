@@ -1,4 +1,4 @@
-# DefenseCoT
+# PeerGuard
 
 ## Data
 
