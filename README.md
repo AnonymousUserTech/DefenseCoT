@@ -7,6 +7,6 @@ Please download dataset **MMLU**, **CSQA**, **ARC** and arrange them as the foll
 ```
 data/
 ├── MMLU 
-├── CSQA 
-├── ARC
+├── CSQA
+└──ARC
 ```
