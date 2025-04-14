@@ -1,0 +1,26 @@
+**Answer the multi-choice questions, following the template shown in demonstration.**
+```
+Answer the following multi-choice question.
+What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?
+A. Opportunistic organisation
+B. Enterprising organisation
+C. International organisation
+D. Agile organisation
+
+Reasoning steps:
+First, let’s write down the necessary steps needed for solving the question.
+#1 Understand the Question
+#2 Analyze the Options
+
+Next, let’s solve the question one by one and choose the correct answer by integrating all the pieces for information.
+#3 (by #1) The question is asking for a type of organization that is characterized by its ability to adapt quickly to changes, particularly in terms of supply and demand. Understanding the question helps narrow down the focus to the characteristics of responsiveness and adaptability.
+#4 (by #2)
+A. Opportunistic organisation: This term might initially seem relevant because opportunistic can imply taking advantage of circumstances, which could involve adapting. However, being opportunistic is more associated with taking immediate advantage without a necessary focus on adaptability or responsiveness to market conditions specifically. It's more about capitalizing on situations as they arise, not necessarily adapting to changes in supply and demand.
+B. Enterprising organisation: Enterprising refers to a company that is innovative and shows initiative. While this can include adaptability, it's not specifically targeted to the quick changes in supply and demand. It's more about innovation and the drive to start new ventures rather than the ability to adapt rapidly to external conditions.
+C. International organisation: This refers to organizations that operate on a global scale. The term international is more about geographic reach than about adaptability to supply and demand changes. While international organizations must adapt to different markets, the term does not specifically address the quick response to changes the question highlights.
+D. Agile organisation: Agile is a term that comes from software development and has been applied more broadly to business to describe a method or approach characterized by quick, adaptive, and iterative responses to change. In a business context, an agile organization is one that can quickly adapt to market changes, which fits the description in the question. Agile methodologies emphasize responsiveness to changing customer demands and market conditions.
+#5 (by #3 and #4) Based on the analysis, the best answer is D. Agile organisation. This term directly relates to the ability of an organization to adapt quickly to changes, especially in terms of supply and demand, matching the description provided in the question.
+
+Answer:
+Based on #5, we can conclude that the correct answer is D. Agile organisation.
+```
